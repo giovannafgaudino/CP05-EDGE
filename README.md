@@ -19,6 +19,7 @@ Tabela com o hardware do circuito no Arduino - Hands On:
 | 1          | Arduino Uno R3                |
 | 1          | DHT11                         |
 | 1          | Sensor Ultrassônico           |
+| 1          | Protoboard                    |
 
 
 
