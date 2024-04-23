@@ -1,13 +1,14 @@
-# CP05-EDGE
+# Check Point Edge Computer &amp; Computer Systems
 Check Point Edge Computer &amp; Computer Systems
-##Atividade
+
+## Atividade
 Checkpoint 05 - Edge Computing & Computer Systems ESPB 
-Sistema de Monitoramento com IoT
-Objetivo →  Medir condições ambientais  (temperatura) e distância, fazer conexão como Node-red, TAGO.IO e HiveMQ.
+- Sistema de Monitoramento com IoT
+- Objetivo →  Medir condições ambientais  (temperatura) e distância, fazer conexão como Node-red, TAGO.IO e HiveMQ.
 
 ESPB 
 
-##Autores:
+## Autores:
 |Nome                              |RM             |
 |----------------------------------|---------------|
 |Beatriz Dantas Sampaio            |554044         |
@@ -15,7 +16,7 @@ ESPB
 |Isabela Barcellos Freire          |553746         |
 
  
-##Sistema Hands-On
+## Sistema Hands-On
 Tabela com o hardware do circuito no Arduino - Hands On:
 
 | Quantidade | Descrição                     |
