@@ -42,9 +42,10 @@ Funcionamento:
 
 ⚠️ Caso você use outras entradas para os componentes, favor lembrar de atualizar seu código com as entradas corretas. 
 
-<a href='Node-red.png'>Sistema Node Red</a>
-<a href='Dashboard TagoIo.png'>Dashboard Tago.Io</a>
-<a href='MQTT.png'>Tópicos MQTT HiveMQ</a>
-<a href='Sistema HandsOn.png'> Sistema feito em sala</a>
-<a href='codigo.c++'>Código Arduino (c++)</a>
-<a href='flows.json'>Componentes JSON</a>
+
+- <a href='Node-red.png'>Sistema Node Red</a>
+- <a href='Dashboard TagoIo.png'>Dashboard Tago.Io</a>
+- <a href='MQTT.png'>Tópicos MQTT HiveMQ</a>
+- <a href='Sistema HandsOn.png'> Sistema feito em sala</a>
+- <a href='codigo.c++'>Código Arduino (c++)</a>
+- <a href='flows.json'>Componentes JSON</a>
