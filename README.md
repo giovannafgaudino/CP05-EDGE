@@ -41,3 +41,5 @@ Funcionamento:
 4. Observe as luzes dos LEDs e o som do buzzer de acordo com as condições. 
 
 ⚠️ Caso você use outras entradas para os componentes, favor lembrar de atualizar seu código com as entradas corretas. 
+
+[Foto Node-red]('Node-red.png')
