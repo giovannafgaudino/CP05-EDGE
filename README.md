@@ -42,4 +42,4 @@ Funcionamento:
 
 ⚠️ Caso você use outras entradas para os componentes, favor lembrar de atualizar seu código com as entradas corretas. 
 
-[Foto Node-red]('Node-red.png')
+<a href='Node-red.png'>Foto Sistema Node Red</a>
